@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Maze on pyxel_games by koidemizu</title><link>https://koidemizu.github.io/tags/maze/</link><description>Recent content in Maze on pyxel_games by koidemizu</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://koidemizu.github.io/tags/maze/index.xml" rel="self" type="application/rss+xml"/><item><title>Maze</title><link>https://koidemizu.github.io/post/maze/</link><pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate><guid>https://koidemizu.github.io/post/maze/</guid><description>&lt;p>迷路を探索するゲーム。&lt;br>
-懐かしいワイヤーフレームのグラフィックを目指しています。 &lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maze on pyxel_games by koidemizu</title>
+    <link>https://koidemizu.github.io/tags/maze/</link>
+    <description>Recent content in Maze on pyxel_games by koidemizu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://koidemizu.github.io/tags/maze/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maze</title>
+      <link>https://koidemizu.github.io/post/maze/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://koidemizu.github.io/post/maze/</guid>
+      <description>&lt;p&gt;迷路を探索するゲーム。&lt;br&gt;
+懐かしいワイヤーフレームのグラフィックを目指しています。 &lt;br&gt;
 プレイヤーは敵キャラクターやギミックに対応しながらゴールを目指します。
-(キーボードのみ対応)&lt;/p></description></item></channel></rss>
+(キーボードのみ対応)&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
