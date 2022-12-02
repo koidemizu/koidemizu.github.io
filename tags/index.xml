@@ -26,15 +26,6 @@
     </item>
     
     <item>
-      <title>index</title>
-      <link>https://koidemizu.github.io/tags/index/</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://koidemizu.github.io/tags/index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Maze</title>
       <link>https://koidemizu.github.io/tags/maze/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
@@ -58,6 +49,33 @@
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://koidemizu.github.io/tags/shooting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://koidemizu.github.io/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koidemizu.github.io/tags/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>お絵描き</title>
+      <link>https://koidemizu.github.io/tags/%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koidemizu.github.io/tags/%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数字</title>
+      <link>https://koidemizu.github.io/tags/%E6%95%B0%E5%AD%97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koidemizu.github.io/tags/%E6%95%B0%E5%AD%97/</guid>
       <description></description>
     </item>
     

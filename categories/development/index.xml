@@ -41,5 +41,26 @@
 (キーボードのみ対応)&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Oekaki</title>
+      <link>https://koidemizu.github.io/post/oekaki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koidemizu.github.io/post/oekaki/</guid>
+      <description>&lt;p&gt;良く分からないキャラクターを動かしてカラフルな線を書くゲーム。
+スマホ対応ゲームの試作品として作ってみたもの。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Suuji</title>
+      <link>https://koidemizu.github.io/post/suuji/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koidemizu.github.io/post/suuji/</guid>
+      <description>&lt;p&gt;数字を順番にタッチするゲーム。
+ただそれだけ、なんですよね。
+一応スマホ対応ゲームの試作品としても作ってみた。&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

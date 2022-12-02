@@ -20,9 +20,6 @@
     <loc>https://koidemizu.github.io/tags/game/</loc>
     <lastmod>2022-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://koidemizu.github.io/tags/index/</loc>
-    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://koidemizu.github.io/tags/maze/</loc>
     <lastmod>2022-10-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,12 +41,20 @@
     <loc>https://koidemizu.github.io/tags/</loc>
     <lastmod>2022-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://koidemizu.github.io/categories/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</loc>
-    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://koidemizu.github.io/post/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</loc>
-    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://koidemizu.github.io/game/</loc>
+  </url><url>
+    <loc>https://koidemizu.github.io/tags/index/</loc>
+  </url><url>
+    <loc>https://koidemizu.github.io/post/oekaki/</loc>
+  </url><url>
+    <loc>https://koidemizu.github.io/post/suuji/</loc>
+  </url><url>
+    <loc>https://koidemizu.github.io/tags/%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D/</loc>
+  </url><url>
+    <loc>https://koidemizu.github.io/categories/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</loc>
+  </url><url>
+    <loc>https://koidemizu.github.io/post/index/</loc>
+  </url><url>
+    <loc>https://koidemizu.github.io/tags/%E6%95%B0%E5%AD%97/</loc>
   </url>
 </urlset>
