@@ -35,15 +35,6 @@
     </item>
     
     <item>
-      <title>RPG</title>
-      <link>https://koidemizu.github.io/tags/rpg/</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://koidemizu.github.io/tags/rpg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Shooting</title>
       <link>https://koidemizu.github.io/tags/shooting/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
@@ -53,11 +44,38 @@
     </item>
     
     <item>
+      <title>Bloodborne</title>
+      <link>https://koidemizu.github.io/tags/bloodborne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koidemizu.github.io/tags/bloodborne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fanart</title>
+      <link>https://koidemizu.github.io/tags/fanart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koidemizu.github.io/tags/fanart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>index</title>
       <link>https://koidemizu.github.io/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://koidemizu.github.io/tags/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPG</title>
+      <link>https://koidemizu.github.io/tags/rpg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koidemizu.github.io/tags/rpg/</guid>
       <description></description>
     </item>
     
@@ -85,6 +103,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://koidemizu.github.io/tags/%E6%95%B0%E5%AD%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>花火</title>
+      <link>https://koidemizu.github.io/tags/%E8%8A%B1%E7%81%AB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koidemizu.github.io/tags/%E8%8A%B1%E7%81%AB/</guid>
       <description></description>
     </item>
     
