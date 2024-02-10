@@ -6,92 +6,70 @@
     <description>Recent content in Development on pyxel_games by koidemizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://koidemizu.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://koidemizu.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Action-Shooting</title>
       <link>https://koidemizu.github.io/post/action-shooting/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://koidemizu.github.io/post/action-shooting/</guid>
-      <description>&lt;p&gt;2Dアクション。
-各ステージでターゲットを破壊します。&lt;br&gt;
-(キーボード・バーチャルパッド対応)&lt;/p&gt;</description>
+      <description>&lt;p&gt;2Dアクション。&#xA;各ステージでターゲットを破壊します。&lt;br&gt;&#xA;(キーボード・バーチャルパッド対応)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Maze</title>
       <link>https://koidemizu.github.io/post/maze/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://koidemizu.github.io/post/maze/</guid>
-      <description>&lt;p&gt;迷路を探索するゲーム。&lt;br&gt;
-懐かしいワイヤーフレームのグラフィックを目指しています。 &lt;br&gt;
-プレイヤーは敵キャラクターやギミックに対応しながらゴールを目指します。
-(キーボード ・バーチャルパッド対応)&lt;/p&gt;</description>
+      <description>&lt;p&gt;迷路を探索するゲーム。&lt;br&gt;&#xA;懐かしいワイヤーフレームのグラフィックを目指しています。 &lt;br&gt;&#xA;プレイヤーは敵キャラクターやギミックに対応しながらゴールを目指します。&#xA;(キーボード ・バーチャルパッド対応)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Action-RPG</title>
       <link>https://koidemizu.github.io/post/action-rpg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://koidemizu.github.io/post/action-rpg/</guid>
-      <description>&lt;p&gt;シンプルなレトロアクションRPG。&lt;br&gt;
-プレイヤーは様々なアイテムを探しながら、各チャプターごとの目標達成を目指します。&lt;br&gt;
-(キーボードのみ対応)&lt;/p&gt;</description>
+      <description>&lt;p&gt;シンプルなレトロアクションRPG。&lt;br&gt;&#xA;プレイヤーは様々なアイテムを探しながら、各チャプターごとの目標達成を目指します。&lt;br&gt;&#xA;(キーボードのみ対応)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fanart-Bloodborne</title>
       <link>https://koidemizu.github.io/post/fanart-bloodborne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://koidemizu.github.io/post/fanart-bloodborne/</guid>
-      <description>&lt;p&gt;大好きなゲーム、Bloodborneのファンアート置き場。&lt;br&gt;
-pyxelでちょこちょこと作ったものを載せています。&lt;/p&gt;</description>
+      <description>&lt;p&gt;大好きなゲーム、Bloodborneのファンアート置き場。&lt;br&gt;&#xA;pyxelでちょこちょこと作ったものを載せています。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hanabi</title>
       <link>https://koidemizu.github.io/post/hanabi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://koidemizu.github.io/post/hanabi/</guid>
-      <description>&lt;p&gt;画面をポチポチすると花火っぽいやつが出る。それだけ。&lt;br&gt;
-ChatGPT君にいろいろ教わりながら作った。&lt;/p&gt;</description>
+      <description>&lt;p&gt;画面をポチポチすると花火っぽいやつが出る。それだけ。&lt;br&gt;&#xA;ChatGPT君にいろいろ教わりながら作った。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Oekaki</title>
       <link>https://koidemizu.github.io/post/oekaki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://koidemizu.github.io/post/oekaki/</guid>
-      <description>&lt;p&gt;良く分からないキャラクターを動かしてカラフルな線を書くゲーム。
-スマホ対応ゲームの試作品として作ってみたもの。&lt;/p&gt;</description>
+      <description>&lt;p&gt;良く分からないキャラクターを動かしてカラフルな線を書くゲーム。&#xA;スマホ対応ゲームの試作品として作ってみたもの。&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Pinball</title>
+      <link>https://koidemizu.github.io/post/pinball/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://koidemizu.github.io/post/pinball/</guid>
+      <description>&lt;p&gt;シンプルなピンボールゲーム。&lt;br&gt;&#xA;といいつつパドル部分はむしろブロック崩しに近い動きになっています。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Sandbox</title>
       <link>https://koidemizu.github.io/post/sandbox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://koidemizu.github.io/post/sandbox/</guid>
-      <description>&lt;p&gt;サンドボックスゲーム。&lt;br&gt;
-様々なビルドメニューを使ってサンドボックス環境で自由に遊びます。&lt;br&gt;
-(キーボード ・バーチャルパッド対応)&lt;/p&gt;</description>
+      <description>&lt;p&gt;サンドボックスゲーム。&lt;br&gt;&#xA;様々なビルドメニューを使ってサンドボックス環境で自由に遊びます。&lt;br&gt;&#xA;(キーボード ・バーチャルパッド対応)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Suuji</title>
       <link>https://koidemizu.github.io/post/suuji/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://koidemizu.github.io/post/suuji/</guid>
-      <description>&lt;p&gt;数字を順番にタッチするゲーム。
-ただそれだけ、なんですよね。
-一応スマホ対応ゲームの試作品としても作ってみた。&lt;/p&gt;</description>
+      <description>&lt;p&gt;数字を順番にタッチするゲーム。&#xA;ただそれだけ、なんですよね。&#xA;一応スマホ対応ゲームの試作品としても作ってみた。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

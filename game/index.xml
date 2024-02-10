@@ -5,6 +5,7 @@
     <link>https://koidemizu.github.io/game/</link>
     <description>Recent content in Games on pyxel_games by koidemizu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://koidemizu.github.io/game/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <atom:link href="https://koidemizu.github.io/game/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

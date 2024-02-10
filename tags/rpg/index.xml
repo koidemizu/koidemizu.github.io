@@ -5,17 +5,14 @@
     <link>https://koidemizu.github.io/tags/rpg/</link>
     <description>Recent content in RPG on pyxel_games by koidemizu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://koidemizu.github.io/tags/rpg/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <atom:link href="https://koidemizu.github.io/tags/rpg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Action-RPG</title>
       <link>https://koidemizu.github.io/post/action-rpg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://koidemizu.github.io/post/action-rpg/</guid>
-      <description>&lt;p&gt;シンプルなレトロアクションRPG。&lt;br&gt;
-プレイヤーは様々なアイテムを探しながら、各チャプターごとの目標達成を目指します。&lt;br&gt;
-(キーボードのみ対応)&lt;/p&gt;</description>
+      <description>&lt;p&gt;シンプルなレトロアクションRPG。&lt;br&gt;&#xA;プレイヤーは様々なアイテムを探しながら、各チャプターごとの目標達成を目指します。&lt;br&gt;&#xA;(キーボードのみ対応)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

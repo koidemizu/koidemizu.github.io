@@ -6,18 +6,14 @@
     <description>Recent content in Maze on pyxel_games by koidemizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://koidemizu.github.io/tags/maze/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://koidemizu.github.io/tags/maze/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maze</title>
       <link>https://koidemizu.github.io/post/maze/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://koidemizu.github.io/post/maze/</guid>
-      <description>&lt;p&gt;迷路を探索するゲーム。&lt;br&gt;
-懐かしいワイヤーフレームのグラフィックを目指しています。 &lt;br&gt;
-プレイヤーは敵キャラクターやギミックに対応しながらゴールを目指します。
-(キーボード ・バーチャルパッド対応)&lt;/p&gt;</description>
+      <description>&lt;p&gt;迷路を探索するゲーム。&lt;br&gt;&#xA;懐かしいワイヤーフレームのグラフィックを目指しています。 &lt;br&gt;&#xA;プレイヤーは敵キャラクターやギミックに対応しながらゴールを目指します。&#xA;(キーボード ・バーチャルパッド対応)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

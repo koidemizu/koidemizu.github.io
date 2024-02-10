@@ -6,17 +6,14 @@
     <description>Recent content in 2D-Action on pyxel_games by koidemizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://koidemizu.github.io/tags/2d-action/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://koidemizu.github.io/tags/2d-action/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Action-Shooting</title>
       <link>https://koidemizu.github.io/post/action-shooting/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://koidemizu.github.io/post/action-shooting/</guid>
-      <description>&lt;p&gt;2Dアクション。
-各ステージでターゲットを破壊します。&lt;br&gt;
-(キーボード・バーチャルパッド対応)&lt;/p&gt;</description>
+      <description>&lt;p&gt;2Dアクション。&#xA;各ステージでターゲットを破壊します。&lt;br&gt;&#xA;(キーボード・バーチャルパッド対応)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

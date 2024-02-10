@@ -5,16 +5,14 @@
     <link>https://koidemizu.github.io/tags/%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D/</link>
     <description>Recent content in お絵描き on pyxel_games by koidemizu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://koidemizu.github.io/tags/%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <atom:link href="https://koidemizu.github.io/tags/%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oekaki</title>
       <link>https://koidemizu.github.io/post/oekaki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://koidemizu.github.io/post/oekaki/</guid>
-      <description>&lt;p&gt;良く分からないキャラクターを動かしてカラフルな線を書くゲーム。
-スマホ対応ゲームの試作品として作ってみたもの。&lt;/p&gt;</description>
+      <description>&lt;p&gt;良く分からないキャラクターを動かしてカラフルな線を書くゲーム。&#xA;スマホ対応ゲームの試作品として作ってみたもの。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
