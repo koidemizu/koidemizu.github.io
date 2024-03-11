@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hieroglyph on pyxel_games by koidemizu</title>
+    <link>https://koidemizu.github.io/tags/hieroglyph/</link>
+    <description>Recent content in Hieroglyph on pyxel_games by koidemizu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <atom:link href="https://koidemizu.github.io/tags/hieroglyph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hieroglyph</title>
+      <link>https://koidemizu.github.io/post/hieroglyph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://koidemizu.github.io/post/hieroglyph/</guid>
+      <description>&lt;p&gt;日本語のひらがなをヒエログリフに変換するアプリ。&lt;br&gt;&#xA;50音の対応と、男性・女性の決定句。カルトゥーシュを付ける機能があります。&lt;br&gt;&#xA;3行しか書けないのはご愛敬ということで。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
