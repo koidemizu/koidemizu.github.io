@@ -6,8 +6,15 @@
     <description>Recent content in Development on pyxel_games by koidemizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://koidemizu.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stop_and_Go</title>
+      <link>https://koidemizu.github.io/post/stop_go/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://koidemizu.github.io/post/stop_go/</guid>
+      <description>&lt;p&gt;ワンボタンゲーム。&lt;br&gt;&#xA;ボタンが押されている間は自機の進行が止まります。 &lt;br&gt;&#xA;敵の弾をよけながらゴールを目指します。弾の色によって挙動が違うので注意してください。&lt;br&gt;&#xA;クリアするとだんだんと敵の攻撃力とゲームスピードがアップしていきます。&lt;br&gt;&#xA;(キーボード ・スマホ対応)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Action-Shooting</title>
       <link>https://koidemizu.github.io/post/action-shooting/</link>
